@@ -79,6 +79,8 @@
     margin: 0;
 }
 
-.fa-remove:hover {
-    color: red;
+.ui-autocomplete-icon:hover .fa-remove:before{
+  
+  color:red;
+ 
 }
