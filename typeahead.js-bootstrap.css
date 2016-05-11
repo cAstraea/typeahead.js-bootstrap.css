@@ -79,3 +79,8 @@
     margin: 0;
 }
 
+.popover {
+    top: 50px !important;
+    
+}
+
